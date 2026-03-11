@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Nicholas
 
 <!-- ABOUT-SECTION:START -->
-> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ee15d823-6d88-4fbb-8965-9f2229590c35" /> **Financial Analyst at Sheridan Nurseries Limited**
+> <!-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ee15d823-6d88-4fbb-8965-9f2229590c35" />  **Financial Analyst at Sheridan Nurseries Limited** -->
 >
-> _Data engineer and full-stack developer specializing in automation, analytics, and infrastructure optimization._
+> _Data analyst and full-stack developer specializing in automation, analytics, and infrastructure optimization._
 >
 > <!-- Add your personal site or portfolio link here if applicable -->
 > <!-- [Visit my website](https://yourwebsite.com) -->
-> ## Socials
+> <!-- ## Socials
 > <p align="middle">
 > <a href="https://www.linkedin.com/in/nicholas-harington-195778141/" target="_blank" rel="noreferrer">
 >   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -18,7 +18,7 @@
 > <a href="https://www.instagram.com/nick_harington/" target="_blank" rel="noreferrer">
 >   <img src="https://github.com/user-attachments/assets/91415088-5bcc-45ae-8555-e9c57bf98132" alt="Instagram" width="48" height="48"/>
 > </a>
-> </p>
+> </p>-->
 <!-- ABOUT-SECTION:END -->
 
 ---
