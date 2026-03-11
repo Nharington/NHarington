@@ -55,3 +55,6 @@
 ## 📈 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=NHarington&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/NHarington)
+
+![](https://komarev.com/ghpvc/?username=NHarington&style=flat-square)
+
