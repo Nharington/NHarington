@@ -33,6 +33,9 @@
 ![](https://komarev.com/ghpvc/?username=Nharington&style=flat-square)
 ![Metrics](github-metrics.svg)
 
+## 🖱️ Cursor Metrics
+![Cursor Metrics](cursor-metrics.svg)
+
 ---
 
 ## ℹ️ More Info
