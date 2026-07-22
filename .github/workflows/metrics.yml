@@ -31,9 +31,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories

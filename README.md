@@ -35,12 +35,6 @@
 
 ---
 
-## 🔥 Github Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nharington&theme=github-dark&border_radius=20)](https://git.io/streak-stats)
-
----
-
 ## ℹ️ More Info
 
 > Note: A lot of my work lives in private repositories for employers and client projects, so public activity here is only part of the picture.
