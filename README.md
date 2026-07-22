@@ -1,6 +1,4 @@
-[![Header](./images/header.svg)](https://github.com/Nharington)
-
-# 👋 Hey there
+ 👋 Hey there
 
 > _Data analyst and full-stack developer specializing in automation, analytics, and infrastructure optimization._
 
@@ -28,18 +26,11 @@
 
 > _Currently building private and internal tools for data automation and system integration._
 
----
-
-## 📈 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=Nharington&show_icons=true&line_height=27&count_private=true&title_color=1F2329&text_color=434D58&icon_color=2bbc8a&bg_color=F6F8FA)](https://github.com/Nharington)
-
-![](https://komarev.com/ghpvc/?username=Nharington&style=flat-square)
 
 ---
 
 ## 📊 Github Metrics
-
+![](https://komarev.com/ghpvc/?username=Nharington&style=flat-square)
 ![Metrics](github-metrics.svg)
 
 ---
