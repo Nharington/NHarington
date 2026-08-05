@@ -17,14 +17,14 @@
   
       <text x="60" y="42" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Cursor</text>
       <text x="60" y="60" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.04em">PROFILE METRICS</text>
-      <text x="832" y="42" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">8/4/2026, 1:27:37 AM</text>
+      <text x="832" y="42" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">8/5/2026, 1:41:54 AM</text>
       <line x1="28" y1="78" x2="832" y2="78" stroke="rgba(240, 240, 240, 0.08)" />
     </g>
   
 
   <text x="28" y="124" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Nicholas Harington</text>
   <text x="28" y="148" fill="#f54e00" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">@nharington</text>
-  <text x="28" y="170" fill="rgba(240, 240, 240, 0.74)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Joined 537 days ago</text>
+  <text x="28" y="170" fill="rgba(240, 240, 240, 0.74)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Joined 538 days ago</text>
 
   
     <g transform="translate(28, 180)">
@@ -36,7 +36,7 @@
     <g transform="translate(232, 180)">
       <rect width="192" height="76" fill="#181818" stroke="rgba(240, 240, 240, 0.08)" />
       <text x="16" y="28" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Agents</text>
-      <text x="16" y="56" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">274</text>
+      <text x="16" y="56" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">273</text>
     </g>
   
     <g transform="translate(436, 180)">
@@ -48,7 +48,7 @@
     <g transform="translate(640, 180)">
       <rect width="192" height="76" fill="#181818" stroke="rgba(240, 240, 240, 0.08)" />
       <text x="16" y="28" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Current Streak</text>
-      <text x="16" y="56" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">1d</text>
+      <text x="16" y="56" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">2d</text>
     </g>
   
 
@@ -133,14 +133,14 @@
   <g transform="translate(28, 600)">
     <rect width="396" height="88" fill="#181818" stroke="rgba(240, 240, 240, 0.08)" />
     <text x="16" y="30" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Tokens</text>
-    <text x="16" y="58" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">776.6M tokens</text>
+    <text x="16" y="58" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">783.1M tokens</text>
   </g>
 
   <g transform="translate(436, 600)">
     <rect width="396" height="88" fill="#181818" stroke="rgba(240, 240, 240, 0.08)" />
     <text x="16" y="30" fill="rgba(240, 240, 240, 0.60)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Agents</text>
-    <text x="16" y="58" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500">274 agents</text>
-    <text x="16" y="78" fill="rgba(240, 240, 240, 0.74)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Local (274) · Cloud (0)</text>
+    <text x="16" y="58" fill="#f0f0f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500">273 agents</text>
+    <text x="16" y="78" fill="rgba(240, 240, 240, 0.74)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Local (273) · Cloud (0)</text>
   </g>
 
   <line x1="28" y1="728" x2="832" y2="728" stroke="rgba(240, 240, 240, 0.08)" />
